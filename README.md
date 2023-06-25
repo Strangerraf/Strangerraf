@@ -1,4 +1,4 @@
-### <img  align="center" src="https://media.discordapp.net/attachments/797293155279831083/1122603260977614848/Copia_de_Sem_nome.gif?width=442&height=442" width="50px" height="50px"> Olá! Sou Rafaela Estevam <img  align="center" src="https://media.discordapp.net/attachments/797293155279831083/1122603260977614848/Copia_de_Sem_nome.gif?width=442&height=442" width="50px" height="50px">
+### <img  align="center" src="https://media.discordapp.net/attachments/797293155279831083/1122603260977614848/Copia_de_Sem_nome.gif?width=442&height=442" width="50px" height="50px">   _**Oii! Sou Rafaela Estevam**_   <img  align="center" src="https://media.discordapp.net/attachments/797293155279831083/1122603260977614848/Copia_de_Sem_nome.gif?width=442&height=442" width="50px" height="50px">
 
 
 
@@ -6,7 +6,7 @@
 
 <img align="right" alt="Rafa-gif" height="200em" width="120em" src="https://media.discordapp.net/attachments/797293155279831083/1122239510781108354/Design_sem_nome.gif?width=473&height=473">
 
-<br>
+### _Tecnologias_ 💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,7 +16,7 @@
   </div>
   
 ##
-
+###  _Contato_ 📬 
   <div> 
    <a href="https://instagram.com/http.ellaest" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:rafaelaestevam1228@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
