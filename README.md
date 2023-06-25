@@ -1,4 +1,6 @@
-### 🐾 Olá, Sou Rafaela Estevam 🐾
+### <img  align="center" src="https://media.discordapp.net/attachments/797293155279831083/1122603260977614848/Copia_de_Sem_nome.gif?width=442&height=442" width="50px" height="50px"> Olá! Sou Rafaela Estevam <img  align="center" src="https://media.discordapp.net/attachments/797293155279831083/1122603260977614848/Copia_de_Sem_nome.gif?width=442&height=442" width="50px" height="50px">
+
+
 
 ##
 
@@ -20,4 +22,13 @@
 <a href="https://open.spotify.com/user/rafaestevam22" target="_blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 
   
+</div>
+
+##
+
+<br>
+<div>
+<a href="https://github.com/strangerraf">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strangerraf&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=strangerraf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
